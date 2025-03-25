@@ -2,7 +2,7 @@
 
 **`Analista & Engenheiro de Dados`**
 
-Prazer, me chamo Felipe Cardoso, Sou um entusiasta da área de dados como um todo, atualmente aprofundando meus conhecimentos em Data Analysis e Data Engineering. Essa jornada no universo dos dados me permitiu explorar e continuar descobrindo diversas ferramentas e tecnologias.
+Prazer, me chamo Felipe Cardoso, Sou um entusiasta da área de dados como um todo, atualmente aprofundando meus conhecimentos em Data Analysis e Data Engineering. Essa jornada no universo dos dados me permitiu explorar e continuar descobrindo novas ferramentas e tecnologias.
 
 Caso queriam acompanhar um pouco mais sobre minha jornada na área de dados e outros projetos não deixem de me seguir no [**Linkedin**](https://www.linkedin.com/in/felipercardoso/?locale=pt_BR).
 
@@ -10,7 +10,7 @@ Caso queiram seguir e ler algumas ideias sobre o que eu estou aprendendo me siga
 
 ---
 
-Hello, my name is Felipe Cardoso. I am an enthusiast of the data field as a whole, currently deepening my knowledge in Data Analysis and Data Engineering. This journey in the data universe has allowed me to explore and continue discovering various tools and technologies.
+Hello, my name is Felipe Cardoso. I am an enthusiast of the data field as a whole, currently deepening my knowledge in Data Analysis and Data Engineering. This journey in the data universe has allowed me to explore and continue discovering new tools and technologies.
 
 If you want to follow my journey in the data field and other projects, don't forget to follow me on [**Linkedin**](https://www.linkedin.com/in/felipercardoso/).
 
