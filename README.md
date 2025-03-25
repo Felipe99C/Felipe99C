@@ -14,7 +14,7 @@ Hello, my name is Felipe Cardoso. I am an enthusiast of the data field as a whol
 
 If you want to follow my journey in the data field and other projects, don't forget to follow me on [**Linkedin**](https://www.linkedin.com/in/felipercardoso/).
 If you want to follow and read some ideas about what I'm learning, follow me on [**substack**](https://substack.com/@felipecardoso).
-
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
