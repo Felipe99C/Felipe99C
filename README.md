@@ -9,12 +9,15 @@ Caso queriam acompanhar um pouco mais sobre minha jornada na área de dados e ou
 Caso queiram seguir e ler algumas ideias sobre o que eu estou aprendendo me sigam no [**substack**](https://substack.com/@felipecardoso)
 
 ---
+
 EN
 Hello, my name is Felipe Cardoso. I am an enthusiast of the data field as a whole, currently deepening my knowledge in Data Analysis and Data Engineering. This journey in the data universe has allowed me to explore and continue discovering various tools and technologies.
 
 If you want to follow my journey in the data field and other projects, don't forget to follow me on [**Linkedin**](https://www.linkedin.com/in/felipercardoso/).
 If you want to follow and read some ideas about what I'm learning, follow me on [**substack**](https://substack.com/@felipecardoso).
+
 ---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
